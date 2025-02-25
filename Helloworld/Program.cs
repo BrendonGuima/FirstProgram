@@ -11,7 +11,7 @@ namespace Helloworld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("How many employees will be registered? ");
+            Console.WriteLine("How many employees will be registered? Teste");
             int N = int.Parse(Console.ReadLine());
 
             List<Dados> list = new List<Dados>();
